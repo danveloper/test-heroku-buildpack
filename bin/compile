@@ -1,0 +1,4 @@
+#!/bin/sh
+# Usage: bin/compile <build-dir> <cache-dir>
+echo "compile here"
+exit 0
